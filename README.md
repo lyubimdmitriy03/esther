@@ -33,12 +33,4 @@ This project showcases a professional approach to creating bilingual service web
 
 ---
 
-## 📫 Contact
-
-💼 [Upwork Profile](https://www.upwork.com/freelancers/your-profile-link)  
-📧 Email: your.email@example.com  
-🔗 [Facebook](https://facebook.com/your-profile)
-
----
-
 > _Crafted with empathy, simplicity, and precision._

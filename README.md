@@ -12,6 +12,9 @@ The site is fully **bilingual**, available in:
 Content is thoughtfully organized for ease of navigation in both languages.  
 All pages are built using clean **HTML**, **CSS**, and **jQuery** — ensuring smooth interactivity and responsive behavior.
 
+## 🌐 Live Preview
+🔗 [View Website](https://lyubimdmitriy03.github.io/esther/)
+
 ## ✨ Features
 
 - 🎨 **Minimalist UI Design** tailored for a calm emotional experience  
